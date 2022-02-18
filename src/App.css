@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.card-body {
+  background: darkblue;
+  color: white;
+}
+
+.tile-header {
+  border-bottom: 1px solid;
+}
+
+.action-box {
+  margin-left: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.tasks {
+  margin-top: 25px;
+}
+
+.card-title {
+  cursor: pointer;
+}
